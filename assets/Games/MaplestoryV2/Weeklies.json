@@ -1,0 +1,350 @@
+{
+    "version": "2.1",
+    "imagePrefix": "Weekly/",
+    "infoTitle": "The weekly tracker has been updated!",
+    "infoText": "Welcome to the new version of the weeklies tracker.\n A lot of effort was spent on it so I hope you enjoy it!\n\nUnfortunately existing data could not easily be moved over, so you will have to reconfigure everything.\n\nIf you run into any issues or want to share feedback, feel free to contact me on discord username: starlines\n\nYou can still view the old version for about a week incase you want to move over progress of the last week: starlinez.github.io/games/maplestory/oldweeklies",
+    "infoVisible": false,
+    "taskGroups": [
+        {
+            "title": "Weekly Bosses",
+            "image": "WeeklyBosses",
+            "tasks": [
+                {
+                    "name": "Chaos Pink Bean",
+                    "image": "CPB",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Hard Hilla",
+                    "image": "HHilla",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Cygnus",
+                    "image": "Cygnus",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Chaos Zakum",
+                    "image": "CZak",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Princess No",
+                    "image": "PNO",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Chaos Crimson Queen",
+                    "image": "CCrimsonQueen",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Chaos Pierre",
+                    "image": "CPierre",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Chaos Von Bon",
+                    "image": "CVonBon",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Chaos Vellum",
+                    "image": "CVellum",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Akechi Mitsuhide",
+                    "image": "Akechi",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Hard Magnus",
+                    "image": "HMagnus",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Chaos Papulatus",
+                    "image": "CPap",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Lotus",
+                    "image": "Lotus",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Damien",
+                    "image": "Damien",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Guardian Angel Slime",
+                    "image": "GuardianSlime",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Lucid",
+                    "image": "Lucid",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Will",
+                    "image": "Will",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Gloom",
+                    "image": "Gloom",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Verus Hilla",
+                    "image": "VerusHilla",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Darknell",
+                    "image": "Darknell",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Seren",
+                    "image": "Seren",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Kalos",
+                    "image": "Kalos",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Kaling",
+                    "image": "Kaling",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Limbo",
+                    "image": "Limbo",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                }
+            ],
+            "allDisabled": false
+        },
+        {
+            "title": "Monday Reset",
+            "image": "MondayReset",
+            "tasks": [
+                {
+                    "name": "Scrapyard",
+                    "image": "Scrapyard",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Dark World Tree",
+                    "image": "DWT",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Mu Lung Dojo",
+                    "image": "Dojo",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Kritias",
+                    "image": "Kritias",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Legion",
+                    "image": "Legion",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Erda Spectrum",
+                    "image": "ErdaSpectrum",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Hungry Muto",
+                    "image": "HungryMuto",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Midnight Chaser",
+                    "image": "MidnightChaser",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Spirit Saviour",
+                    "image": "SpiritSaviour",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Ranheim Defense",
+                    "image": "RanheimDefense",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Esfera Guardian",
+                    "image": "EsferaGuardian",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                }
+            ],
+            "allDisabled": false
+        },
+        {
+            "title": "Thursday Reset",
+            "image": "ThursdayReset",
+            "tasks": [
+                {
+                    "name": "Guild Buff",
+                    "image": "GBuff",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Sharenian Culvert",
+                    "image": "Culvert",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Flag Race",
+                    "image": "Flag",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Cache of Greed",
+                    "image": "CacheOfGreed",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Epic Dungeon",
+                    "image": "EpicDungeon",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                }
+            ],
+            "allDisabled": false
+        }
+    ]
+}
